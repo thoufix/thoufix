@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently learning docker and kubernetes
 - 💞️ I’m looking to collaborate to learn anything related to docker and k8s
-- 📫 How to reach me ...
+- 📫 How to reach me in Mars
 
 <!---
 thoufix/thoufix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
